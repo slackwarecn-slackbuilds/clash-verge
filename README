@@ -1,0 +1,6 @@
+This script is used to install the official binary package of
+(clash-verge-rev)[https://github.com/clash-verge-rev/clash-verge-rev/releases]
+
+#### dependencies
+* [webkit2gtk4.1](https://slackbuilds.org/repository/15.0/libraries/webkit2gtk4.1/)
+
